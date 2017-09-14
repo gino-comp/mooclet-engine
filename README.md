@@ -19,7 +19,7 @@ This application, built with Python Django, provides a web service that a user o
 Install required packages for local development:
 ```
   # Install from requirements file
-  pip install requirements_local.txt
+  pip install -r requirements_local.txt
 ```
 Fill in the required Django settings in  ```mooclet_engine_app/settings/secure.py``` based on the template files.
 
